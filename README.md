@@ -1,6 +1,6 @@
 # vue-multipage
 
-> A Vue.js project
+> vue2.0 多页面用例
 
 ## Build Setup
 
