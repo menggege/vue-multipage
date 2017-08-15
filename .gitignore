@@ -1,5 +1,10 @@
-# Object file
-*.o
+.DS_Store
+node_modules/
 
-# Ada Library Information
-*.ali
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
