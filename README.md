@@ -1,4 +1,4 @@
-# vue-multpage-test
+# vue-multipage
 
 > A Vue.js project
 
